@@ -32,7 +32,7 @@ _exclude:
   - "*.njsproj"
   - "*.sln"
   - "*.sw?"
-  - ".git*"
+  - ".git/*"
 
 _answers_file: .copier/.copier-answers.yml
 

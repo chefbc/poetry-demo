@@ -34,7 +34,7 @@ _exclude:
   - "*.sw?"
   - ".git/*"
 
-_answers_file: .copier/.copier-answers.yml
+# _answers_file: .copier/.copier-answers.yml
 
 # _tasks:
 #   - "python .copier/update_dotenv.py"
